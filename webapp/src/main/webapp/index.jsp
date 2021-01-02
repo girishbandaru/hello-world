@@ -3,6 +3,6 @@
 
 YOU HAVE DONE IT AGAIN!! Now move on to add an ansible server to deploy to Tomcat server the above content!!
 
-Now created docker Container!!
+<h1>Now created docker Container!! </h1>
 
-Now this file is updated and was out it here by using Ansible Playbook called in Jenkins!!
+<h2>Now this file is updated and was out it here by using Ansible Playbook called in Jenkins!!</h2>
